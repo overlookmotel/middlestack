@@ -4,7 +4,7 @@
 
 * Initial release
 
-## Next
+## 0.1.1
 
 * Errors include stack trace
 * Remove unnecessary code
