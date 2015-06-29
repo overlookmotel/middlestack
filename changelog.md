@@ -6,4 +6,5 @@
 
 ## Next
 
+* Errors include stack trace
 * Remove unnecessary code
