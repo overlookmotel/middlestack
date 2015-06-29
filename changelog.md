@@ -8,3 +8,7 @@
 
 * Errors include stack trace
 * Remove unnecessary code
+
+## Next
+
+* Error name capitalized
