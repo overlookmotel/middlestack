@@ -9,6 +9,6 @@
 * Errors include stack trace
 * Remove unnecessary code
 
-## Next
+## 0.1.2
 
 * Error name capitalized
