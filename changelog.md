@@ -12,3 +12,7 @@
 ## 0.1.2
 
 * Error name capitalized
+
+## Next
+
+* Deprecated project - renamed `shimstack`

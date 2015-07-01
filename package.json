@@ -1,7 +1,7 @@
 {
   "name": "middlestack",
   "version": "0.1.2",
-  "description": "Middleware for functions",
+  "description": "DEPRECATED",
   "main": "./lib/",
   "author": {
     "name": "Overlook Motel"
@@ -14,9 +14,7 @@
     "url": "https://github.com/overlookmotel/middlestack/issues"
   },
   "dependencies": {
-    "co-bluebird": "0.0.2",
-    "is-generator": "1.0.0",
-    "lodash": "3.8.0"
+    "shimstack": "*"
   },
   "devDependencies": {
     "mocha": "^2.2.4",
@@ -26,11 +24,6 @@
     "coveralls": "^2.11.2"
   },
   "keywords": [
-    "middleware",
-    "function",
-    "functions",
-    "shim",
-    "stack"
   ],
   "scripts": {
     "test": "make test",
