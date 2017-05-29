@@ -1,5 +1,7 @@
 # middlestack.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/overlookmotel/middlestack.svg)](https://greenkeeper.io/)
+
 # DEPRECATED
 
 This project has been renamed `shimstack`.
